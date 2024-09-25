@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I Currently work on School Project <br>👯 I’m looking to Teacher that can Learn me more<br>🌱 I’m currently learning Rust and Javascript Code
-I want to Be Reverse Engineer 
+
+I want to Be Reverse Engineer to Help the some people project
 
 
 # 💻 What I Learn and Got
